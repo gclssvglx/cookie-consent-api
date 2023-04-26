@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "govuk-frontend": "^4.2.0",
-    "@alphagov/consent-api": "alphagov/consent-api#semver:1.7.1",
+    "@alphagov/consent-api": "alphagov/consent-api#semver:1.7.5",
     "sass": "^1.53.0"
   }
 }
